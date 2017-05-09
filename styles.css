@@ -29,3 +29,13 @@ header {
 #item2 {
   text-align: right;
 }
+ol > li {
+  padding: 30px;
+  background-color: grey;
+}
+ol > li:nth-child(2n+1) {
+  background-color: green;
+}
+a:hover {
+  text-decoration: none;
+}
