@@ -13,3 +13,13 @@ header {
 .class-list {
   list-style-type: square;
 }
+.item {
+  border: thin dashed #923457;
+}
+.even {
+  background-color: grey;
+}
+.odd {
+  background-color: black;
+  color: white;
+}
